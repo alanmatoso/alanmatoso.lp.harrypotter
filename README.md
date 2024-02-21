@@ -1,7 +1,8 @@
 # HarryVerse Landing Page
 
 Follow theses steps bellow to install and develop in HarryVerse repository. 
-This project has currently been published in https://alanmatoso-lp-harrypotter.vercel.app/
+This project has currently been published in [https://alanmatoso-lp-harrypotter.vercel.app/](https://alanmatoso-lp-harrypotter-v2.vercel.app/
+)
 
 ## Configuration
 
