@@ -61,6 +61,7 @@
     }
 
     .character-details {
+      color: $color-primary-0;
       @media screen and (min-width: 64rem) {
         width: $size-650px;
       }
